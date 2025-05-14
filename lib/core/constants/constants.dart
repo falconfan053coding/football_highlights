@@ -9,6 +9,6 @@ abstract final class Constants {
   static const sixthVideosLink = 'euro';
   static const seventhVideosLink = 'cups';
 
-  static const username = 'myfootballapis123';
-  static const password = 'P40KXkOA7t1OD3nFkhhoFA';
+  static const username = '*************************';
+  static const password = '*************************';
 }
